@@ -1,0 +1,9 @@
+/Users/alexandredeoliveira/Documents/personal_projects/rust-notification/target/debug/deps/ipnet-56fc43bdcd6d6649.rmeta: /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/lib.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipext.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipnet.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/parser.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/mask.rs
+
+/Users/alexandredeoliveira/Documents/personal_projects/rust-notification/target/debug/deps/ipnet-56fc43bdcd6d6649.d: /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/lib.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipext.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipnet.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/parser.rs /Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/mask.rs
+
+/Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/lib.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipext.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/ipnet.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/parser.rs:
+/Users/alexandredeoliveira/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ipnet-2.8.0/src/mask.rs:
